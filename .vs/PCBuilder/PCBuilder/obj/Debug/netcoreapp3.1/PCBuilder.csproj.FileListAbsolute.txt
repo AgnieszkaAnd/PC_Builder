@@ -1,0 +1,11 @@
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\obj\Debug\netcoreapp3.1\PCBuilder.csprojAssemblyReference.cache
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\obj\Debug\netcoreapp3.1\PCBuilder.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\obj\Debug\netcoreapp3.1\PCBuilder.AssemblyInfo.cs
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\bin\Debug\netcoreapp3.1\PCBuilder.exe
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\bin\Debug\netcoreapp3.1\PCBuilder.deps.json
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\bin\Debug\netcoreapp3.1\PCBuilder.runtimeconfig.json
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\bin\Debug\netcoreapp3.1\PCBuilder.runtimeconfig.dev.json
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\bin\Debug\netcoreapp3.1\PCBuilder.dll
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\bin\Debug\netcoreapp3.1\PCBuilder.pdb
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\obj\Debug\netcoreapp3.1\PCBuilder.dll
+C:\Users\asus\Documents\CODECOOL\2_OOP\PCBuilder\.vs\PCBuilder\PCBuilder\obj\Debug\netcoreapp3.1\PCBuilder.pdb
